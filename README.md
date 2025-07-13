@@ -8,10 +8,9 @@
 
 ## 👨‍💻 Sobre mim
 - 🎓 Cursando Ciência da Computação na UVV
-- 💼 Buscando oportunidades como desenvolvedor backend / fullstack
+- 💼 Buscando oportunidades como desenvolvedor backend 
 - 🌍 Interesse em trabalhar no exterior (🇨🇦 Canadá, 🇪🇺 Europa)
 - 📚 Estudando Python, JS (Node.js), SQL e muito mais
-- 🧠 Aprofundando conhecimentos em DevOps, Banco de Dados e Arquitetura de Sistemas
 - 📈 Apaixonado por dados, geopolítica e esportes
 
 ---
