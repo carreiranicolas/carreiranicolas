@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 Sobre mim
-- 🎓 Cursando Ciência da Computação na UVV
+- 🎓 Cursando Ciência da Computação (4/8)
 - 🔍 Buscando oportunidades como desenvolvedor backend 
 - 📚 Estudando Python, JS (Node.js), SQL e muito mais
 - 📈 Comprometido em solucionar problemas com tecnologia
