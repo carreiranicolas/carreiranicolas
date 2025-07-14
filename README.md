@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tech Stacks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -24,17 +24,6 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Meu portfolio
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carreiranicolas&show_icons=true&theme=dark&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carreiranicolas&layout=compact&langs_count=7&theme=dark"/>
-</p>
 
----
-
-## 📫 Como me encontrar
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nicolasrcarreira/)
-- 💌 Email: nicolascarreira2005@gmail.com
-
----
