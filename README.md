@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou o Nicolas Ramos Carreira 👋</h1>
 
-<p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor em formação | Apaixonado por tecnologia 🚀
-</p>
 
----
 
 ## 👨‍💻 Sobre mim
 - 🎓 Cursando Ciência da Computação na UVV
