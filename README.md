@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Nicolas Carreira 👋</h1>
+<h1 align="center">Olá, eu sou Nicolas Carreira 👋</h1>
 
 
 
