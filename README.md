@@ -6,7 +6,7 @@
 - 🎓 Cursando Ciência da Computação na UVV
 - 🔍 Buscando oportunidades como desenvolvedor backend 
 - 📚 Estudando Python, JS (Node.js), SQL e muito mais
-- 📈 Dedicado a resolver problemas usando de ferramentas tecnológicas
+- 📈 Comprometido em solucionar problemas com tecnologia
 
 ---
 
