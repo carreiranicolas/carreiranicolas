@@ -4,7 +4,8 @@
 
 ## 👨‍💻 Sobre mim
 - 🎓 Cursando Ciência da Computação (4/8)
-- 🔍 Buscando oportunidades como desenvolvedor backend 
+- 💼 Atuando como estagiário de dados
+- 🔍 Entusiasta de desenvolvimento backend 
 - 📚 Estudando Python, JS (Node.js), SQL e muito mais
 - 📈 Comprometido em solucionar problemas com tecnologia
 
