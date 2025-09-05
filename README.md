@@ -12,12 +12,14 @@
 ---
 
 ## 🛠️ Tech Stacks
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-3670A0?style=for-the-badge&logo=CSS&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="left">
+  <ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascriptsvg
+  <img src="https://cdnnet/gh/devicons/devicon/icons/css3/css3-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQLvicons/devicon/icons/git/git-original.svg
+
 
 ---
 
