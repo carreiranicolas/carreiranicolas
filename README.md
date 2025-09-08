@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="background-color:#1e1e1e; border-radius:15%; padding:10px; margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" style="background-color:#1e1e1e; border-radius:15%; padding:10px; margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="background-color:#1e1e1e; border-radius:15%; padding:10px; margin:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" style="background-color:#1e1e1e; border-radius:15%; padding:10px; margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" style="background-color:blue; border-radius:15%; padding:10px; margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="background-color:#1e1e1e; border-radius:15%; padding:10px; margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" style="background-color:#1e1e1e; border-radius:15%; padding:10px; margin:5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" style="background-color:#1e1e1e; border-radius:15%; padding:10px; margin:5px;" />
