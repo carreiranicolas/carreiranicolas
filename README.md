@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 Sobre mim
-- 🎓 Cursando Ciência da Computação (4/8)
+- 🎓 Cursando Ciência da Computação (5/8)
 - 💼 Atuando como estagiário de dados
 - 🔍 Entusiasta de desenvolvimento backend 
 - 📚 Estudando Python, JS (Node.js), SQL e muito mais
