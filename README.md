@@ -30,4 +30,4 @@
 
 ### 💼 Meu portfolio
 
-[Link para o seu portfolio pessoal](v0-nicolascarreira.vercel.app)
+[Link para o seu portfolio pessoal](https://v0-nicolascarreira.vercel.app/)
